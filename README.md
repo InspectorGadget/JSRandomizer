@@ -6,4 +6,4 @@ Randomize your life!
 
 
 ## Contributors
-[Team Bootstrap]("https://getbootstrap.com")
+[Team Bootstrap](https://getbootstrap.com)
